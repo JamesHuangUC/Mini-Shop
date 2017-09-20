@@ -1,28 +1,21 @@
-# Minishop
+# Mini Shop
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.4.1.
+An ecoommence web application. Clients can login using their Google account. Also, clients can save the products in a shopping cart and view previous orders when they login next time. Admin users have the functions to view the orders that clients made and the time that clients made the order. Besides these, admins can also CRUD (Create, Reat, Update, Delete ) products in real time.
 
-## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-## Code scaffolding
+## Technologies used:
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+- Languages: HTML5, Bootstrap4, Typescript
+- Web Framework: Angular 4
+- Database: NoSQL
+- Hosting: Firebase
 
-## Build
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `-prod` flag for a production build.
 
-## Running unit tests
+#### Acknowledgements
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+* Some parts of this sample application were inspired by these excellent
+  [Organic-shop Repositories](https://github.com/mosh-hamedani/organic-shop) by *Mosh Hamedani*.
 
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-Before running the tests make sure you are serving the app via `ng serve`.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+#### Licence : [MIT](LICENSE)
