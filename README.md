@@ -17,5 +17,3 @@ An ecoommence web application. Clients can login using their Google account. Als
 
 * Some parts of this sample application were inspired by these excellent
   [Organic-shop Repositories](https://github.com/mosh-hamedani/organic-shop) by *Mosh Hamedani*.
-
-#### Licence : [MIT](LICENSE)
