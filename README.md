@@ -6,7 +6,7 @@ An ecoommence web application. Clients can login using their Google account. Als
 
 ## Technologies used:
 
-- Languages: HTML5, CSS3/Bootstrap4, Typescript
+- Languages: HTML5, CSS3/Bootstrap4, Javascript/Typescript
 - Web Framework: Angular 4
 - Database: NoSQL
 - Hosting: Firebase
