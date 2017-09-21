@@ -1,6 +1,6 @@
 # Mini Shop
 
-An ecoommence web application. Clients can login using their Google account. Also, clients can save the products in a shopping cart and view previous orders when they login next time. Admin users have the functions to view the orders that clients made and the time that clients made the order. Besides these, admins can also CRUD (Create, Reat, Update, Delete ) products in real time.
+An ecoommence web application. Clients can login using their Google account. Also, clients can save the products in a shopping cart and view previous orders when they login next time. Admin users have the functions to view the orders that clients made and the time that clients made the order. Besides these, admins can also CRUD (Create, Read, Update, Delete) products in real time.
 
 
 
